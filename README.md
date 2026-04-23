@@ -1,3 +1,3 @@
 # myprofile
 
-visit my site @ <a href="ikenna-portfolio.html"></a>
+Know more bout me <a href="ikenna-portfolio.html">here</a>
